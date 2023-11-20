@@ -9,9 +9,27 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "dotenv": "^16.3.1",
+    "framer-motion": "^10.16.5",
+    "globby": "^14.0.0",
+    "install": "^0.13.0",
+    "isomorphic-unfetch": "^4.0.2",
+    "next": "14.0.3",
+    "next-compose-plugins": "^2.2.1",
+    "next-optimized-images": "^2.6.2",
+    "prettier": "^3.1.0",
+    "rc-drawer": "^6.5.2",
     "react": "^18",
+    "react-custom-scrollbars": "^4.2.1",
     "react-dom": "^18",
-    "next": "14.0.3"
+    "react-ga": "^3.3.1",
+    "react-icons": "^4.12.0",
+    "react-modal-video": "^2.0.1",
+    "react-multi-carousel": "^2.8.4",
+    "react-scroll": "^1.9.0",
+    "react-stickynode": "^4.1.1",
+    "theme-ui": "^0.16.1",
+    "typeface-dm-sans": "^1.1.13"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
